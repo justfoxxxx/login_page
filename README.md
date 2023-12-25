@@ -1,0 +1,3 @@
+- [] Create new page
+- [] Add style
+- [] Create a window with a button, text
